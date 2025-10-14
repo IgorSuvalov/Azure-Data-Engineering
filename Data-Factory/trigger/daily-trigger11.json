@@ -1,0 +1,33 @@
+{
+	"name": "daily-trigger11",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "copy_all_tables",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2025-10-13T18:31:00",
+				"endTime": "2025-10-14T18:29:00",
+				"timeZone": "GMT Standard Time",
+				"schedule": {
+					"minutes": [
+						31
+					],
+					"hours": [
+						18
+					]
+				}
+			}
+		}
+	}
+}

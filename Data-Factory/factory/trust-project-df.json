@@ -1,0 +1,9 @@
+{
+	"name": "trust-project-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "",
+		"tenantId": ""
+	}
+}
