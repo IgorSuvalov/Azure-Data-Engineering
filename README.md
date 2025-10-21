@@ -4,9 +4,10 @@ An end-to-end data engineering project using Azure.
 
 ## Business Goal
 
-Trust Marketplace wants to see whether the there is a significant difference in purchasing behaviours between male and female customers, in order to improve targeted advertising and marketing strategies.
+Trust Marketplace aims to determine whether there is a significant difference in purchasing behaviours between male and female customers, to improve targeted advertising and marketing strategies.
 
 ## Project Overview
+
 
 
 ![Project diagram](./Images/TrustData-D.drawio.png)
